@@ -222,10 +222,7 @@ cursor: pointer;
    margin-left: 210px;
   
   }
-  .cover::before {
-   width: 650px;
-   margin-left: 50px;
-}
+
   .head a{
     font-size: 20px;
   }
