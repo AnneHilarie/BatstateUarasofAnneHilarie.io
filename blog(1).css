@@ -224,7 +224,7 @@ cursor: pointer;
   }
   .cover::before {
    width: 650px;
-   margin-left: 170px;
+   margin-left: 100px;
 }
   .head a{
     font-size: 20px;
