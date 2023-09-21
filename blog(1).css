@@ -221,14 +221,15 @@ cursor: pointer;
 @media(max-width: 900px){
    body {
     margin-left: 200px;
-   padding-left:40px ;
-     
+   padding-left:60px ;
+   padding-top: 55px;
+   
      
      
    }
    .cover::before {
-    width: 650px;
-    margin-left: 20px;
+    width: 1200px;
+
  }
 
 
