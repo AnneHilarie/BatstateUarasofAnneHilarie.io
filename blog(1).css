@@ -219,17 +219,18 @@ cursor: pointer;
   transform:rotate(90deg);
 }
 @media(max-width: 900px){
- body {
- marigin-left: 210px;
-
-  
-  
-  
-}
-.cover::before {
-  width: 500px;
-}
-
+body {
+   body {
+    margin-left: 200px;
+   padding-left:40px ;
+     
+     
+     
+   }
+   .cover::before {
+    width: 650px;
+    margin-left: 150px;
+ }
 
 
   .head a{
