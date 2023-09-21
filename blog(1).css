@@ -219,7 +219,7 @@ cursor: pointer;
 }
 @media(max-width: 900px){
    body {
-   margin-left: 200px;
+   margin-left: 230px;
   
   }
   .cover::before {
