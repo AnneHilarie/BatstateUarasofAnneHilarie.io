@@ -218,6 +218,14 @@ cursor: pointer;
   transform:rotate(90deg);
 }
 @media(max-width: 900px){
+   body {
+   margin-left: 200px;
+  
+  }
+  .cover::before {
+   width: 650px;
+   margin-left: 170px;
+}
   .head a{
     font-size: 20px;
   }
