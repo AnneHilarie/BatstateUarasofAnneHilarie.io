@@ -219,7 +219,6 @@ cursor: pointer;
   transform:rotate(90deg);
 }
 @media(max-width: 900px){
-body {
    body {
     margin-left: 200px;
    padding-left:40px ;
